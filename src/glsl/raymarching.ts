@@ -1,3 +1,8 @@
+// --------------------------------------------------------
+// This source code is taken from an article by Inigo Quilez.
+// https://www.iquilezles.org/www/index.htm
+// --------------------------------------------------------
+
 /**
  * function to combine sdf
  */

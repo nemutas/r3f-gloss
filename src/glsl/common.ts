@@ -1,5 +1,7 @@
+/**
+ * @link https://gist.github.com/yiwenl/3f804e80d0930e34a0b33359259b556c
+ */
 export const rotate = `
-// https://gist.github.com/yiwenl/3f804e80d0930e34a0b33359259b556c
 mat4 rotationMatrix(vec3 axis, float angle) {
   axis = normalize(axis);
   float s = sin(angle);
