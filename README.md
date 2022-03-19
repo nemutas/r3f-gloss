@@ -1,10 +1,14 @@
 # About
-In this application, we have replicated the model of [Richard Mattka's site](https://richardmattka.com/).<br>
-The gyoroid parameters can be manipulated to create a variety of shapes.
+This application was created to summarize how Raymarching handles color and noise.<br>
+This application challenges.
 
-https://nemutas.github.io/r3f-gyroid-sphere-operable/
+- Raymarching
+- Using matcap texture in shader
+- Changing matcap hue
 
-![output(video-cutter-js com)](https://user-images.githubusercontent.com/46724121/158643883-9a77a4c3-dfd7-4e81-ad78-f8313e547161.gif)
+https://nemutas.github.io/r3f-gloss/
+
+<img src="https://user-images.githubusercontent.com/46724121/159117000-f174e7e6-2e5d-4655-bab7-99c185233b44.png" width="800" />
 
 # Technology
 
@@ -13,6 +17,7 @@ https://nemutas.github.io/r3f-gyroid-sphere-operable/
 - React Three Fiber（Three.js）
 - Raymarching
 - Post-processing
+- [Matcaps](https://github.com/nidorx/matcaps)
 
 # Reference
 This is a technical document on Raymarching. They are all very easy to understand and are excellent documents.
